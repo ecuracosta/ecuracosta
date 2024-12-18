@@ -7,3 +7,9 @@ Through the lens of **physics** and guided by a *philosophical curiosity*, I see
 The principles of life can inspire and inform fields like **economics**, **politics**, and **organizational strategy**, offering innovative pathways to address **complex challenges**. 🌱
 
 If this resonates with you—whether you’re in **academia**, **industry** or another field—I’d love to hear from you! ✨
+
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=q_N6118AAAAJ" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" width="40" height="40"/>
+  </a>
+</p>
