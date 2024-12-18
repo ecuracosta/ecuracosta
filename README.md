@@ -8,7 +8,7 @@
 
 Through the lens of **physics** and guided by a *philosophical curiosity*, I seek to understand **biological processes** and translate them into solutions through **computational modeling**. 🧠
 
-The principles of life can inspire and inform fields like **economics**, **politics**, and **organizational strategy**, offering innovative pathways to address **complex challenges**. 🌱
+The principles of life can inspire and inform fields like **economics**, **politics** and **organizational strategy**, offering innovative pathways to address **complex challenges**. 🌱
 
 If this resonates with you—whether you’re in **academia**, **industry** or another field—I’d love to hear from you! ✨
 
