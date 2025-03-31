@@ -13,6 +13,6 @@ Researcher at the intersection of **biology, physics, and code**.
 - Build pipelines and interfaces  
 - From biological systems to social data to game-like interfaces — and beyond
 
-🧭 Mission: Turning complex into simple.
+**🧭 Mission: Turning complex into simple.**
 
 If you're into systems, simulation, or weird intersections — let’s **build bridges.**
