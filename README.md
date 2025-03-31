@@ -6,10 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=1B93F7&width=800&lines=I+am+fascinated+by+how+life+solves+problems." alt="Typing animation" />
 </p>
 
-Through the lens of **physics** and guided by a *philosophical curiosity*, I seek to understand **biological processes** and translate them into solutions through **computational modeling**. 🧠
+Researcher at the intersection of **biology, physics, and code**.  
+I build tools, models, and pipelines to make sense of complex systems.
 
-The principles of life can inspire and inform fields like **economics**, **politics** and **organizational strategy**, offering innovative pathways to address **complex challenges**. 🌱
+- Fluent in modeling  
+- Code grounded in real-world data  
+- Build pipelines and interfaces  
+- From biological systems to urban data to game-like interfaces — and beyond
 
-If this resonates with you—whether you’re in **academia**, **industry** or another field—I’d love to hear from you! ✨
+🧭 Mission: Turning complex into simple.
 
-
+If you're into systems, simulation, or weird intersections — let’s **build bridges.**
