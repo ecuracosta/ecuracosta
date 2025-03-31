@@ -7,7 +7,6 @@
 </p>
 
 Researcher at the intersection of **biology, physics, and code**.  
-I build tools, models, and pipelines to make sense of complex systems.
 
 - Fluent in modeling  
 - Code grounded in real-world data  
