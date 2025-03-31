@@ -11,7 +11,7 @@ Researcher at the intersection of **biology, physics, and code**.
 - Fluent in modeling  
 - Code grounded in real-world data  
 - Build pipelines and interfaces  
-- From biological systems to urban data to game-like interfaces — and beyond
+- From biological systems to social data to game-like interfaces — and beyond
 
 🧭 Mission: Turning complex into simple.
 
